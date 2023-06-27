@@ -8,13 +8,19 @@ Each directory contains code files and examples for problem-solving related to t
 
 All the source code in this repository is authored by DOWON-SEO and every codes are free to use for y'all
 
-<!-- ## Directory Structure
+<br/>
+
+## Directory Structure
 
 -   ### 0-basic
 
-    Basic algorithms are included in this directory.
+    -   data-structure (Array, Linked-List, Vector)
+    -   prefix-sum
+    -   two-pointers
+    -   sliding-window
+    -   stacks-queues
 
--   ### 1-sorting
+<!-- -   ### 1-sorting
 
     Sorting algorithms are included in this directory.
 
@@ -48,6 +54,8 @@ All the source code in this repository is authored by DOWON-SEO and every codes 
 
 -   ### 9-counter-clockwise
     Code related to counter-clockwise algorithms is included in this directory. -->
+
+<br/>
 
 ## Tools Recommanded
 
