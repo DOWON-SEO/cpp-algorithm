@@ -2,7 +2,7 @@
 **/*.out
 **/*.dSYM/
 test/
-.vscode
+.vscode/
 .DS_Store
 
 # Prerequisites
