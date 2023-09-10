@@ -20,11 +20,16 @@ All the source code in this repository is authored by DOWON-SEO and every codes 
     -   sliding-window
     -   stacks-queues
 
-<!-- -   ### 1-sorting
+-   ### 1-sorting
 
-    Sorting algorithms are included in this directory.
+    -   bubble-sort
+    -   selection-sort
+    -   insertion-sort
+        <!-- -   quick-sort -->
+        <!-- -   merge-sort -->
+        <!-- -   radix-sort -->
 
--   ### 2-search
+<!-- -   ### 2-search
 
     Search algorithms are included in this directory.
 
