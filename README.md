@@ -29,11 +29,13 @@ All the source code in this repository is authored by DOWON-SEO and every codes 
         <!-- -   merge-sort -->
         <!-- -   radix-sort -->
 
-<!-- -   ### 2-search
+-   ### 2-search
 
-    Search algorithms are included in this directory.
+    -   depth-first search (DFS)
+    -   breadth-first search (BFS)
+    -   binary search
 
--   ### 3-greedy-algorithm
+<!-- -   ### 3-greedy-algorithm
 
     Greedy algorithms are included in this directory.
 
