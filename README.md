@@ -66,5 +66,4 @@ All the source code in this repository is authored by DOWON-SEO and every codes 
 
 ## Tools Recommanded
 
--   [VSCode](https://code.visualstudio.com/): A lightweight and versatile code editor with excellent support for C++ development.
 -   [g++](https://gcc.gnu.org/): The GNU Compiler Collection, which includes a C++ compiler.
